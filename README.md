@@ -166,6 +166,13 @@ model = fasterrcnn_resnet50_fpn(pretrained=True)
 - **Todos os Resultados**:
   <img width="2400" height="1200" alt="Image" src="https://github.com/user-attachments/assets/2fe4c67e-fbbe-4a44-a404-4735c9bb3a3a" />
 
+  - **Imagem Validção**:
+ ![validation-1](https://github.com/user-attachments/assets/14f96ea4-146a-4046-8216-efc0433908d0)
+
+  - **Imagem Predição**:
+  ![prediction-1](https://github.com/user-attachments/assets/882c35da-151e-4aa3-ab09-d373968acf74)
+
+
 ---
 
 ### YOLOv10
@@ -178,6 +185,14 @@ model = fasterrcnn_resnet50_fpn(pretrained=True)
 <img width="3000" height="2250" alt="Image" src="https://github.com/user-attachments/assets/48428b15-92f2-483c-9c68-917ea6e0e0e1" />
 - **Todos os Resultados**:
 <img width="2400" height="1200" alt="Image" src="https://github.com/user-attachments/assets/b9a95d64-8be0-4d6a-ac60-492b495bd1c3" />
+
+- **Imagem Validção**:
+![cc3106d1-d428-42bd-85c0-464408f01110](https://github.com/user-attachments/assets/0c43ea31-3f52-43cb-982d-dcc876f23e71)
+
+
+- **Imagem Predição**:
+![625a2850-4e4d-4e33-8dbf-21404103fcea](https://github.com/user-attachments/assets/7fd4e003-9f7f-4400-bc1f-9ed74a213c6f)
+
 ---
 
 ### Faster R-CNN (ResNet-50)
@@ -190,6 +205,11 @@ model = fasterrcnn_resnet50_fpn(pretrained=True)
 
 - **Gráfico de métricas**:
 <img width="590" height="390" alt="Image" src="https://github.com/user-attachments/assets/430a86be-5f62-493d-b4ee-1d3898645828" />
+
+- **Imagem Predição**:
+<img width="636" height="658" alt="prediction-2" src="https://github.com/user-attachments/assets/c412427c-b939-4724-8681-92402ffbc0f2" />
+
+
 
 ---
 
