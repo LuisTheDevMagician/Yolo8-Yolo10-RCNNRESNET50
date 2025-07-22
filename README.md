@@ -162,7 +162,9 @@ model = fasterrcnn_resnet50_fpn(pretrained=True)
 - **Precisão**: ↑ crescente até ~0.82  
 - **Recall**: até ~0.52  
 - **Matriz de confusão**:
-  ![YOLOv8 Confusion Matrix](./results/confusion_matrix_yolo8.png)
+  <img width="3000" height="2250" alt="Image" src="https://github.com/user-attachments/assets/49fd1e11-47b9-4e58-9ff2-95a07011317a" />
+- **Todos os Resultados**:
+  <img width="2400" height="1200" alt="Image" src="https://github.com/user-attachments/assets/2fe4c67e-fbbe-4a44-a404-4735c9bb3a3a" />
 
 ---
 
@@ -173,8 +175,9 @@ model = fasterrcnn_resnet50_fpn(pretrained=True)
 - **Precisão**: até ~0.81  
 - **Recall**: até ~0.52  
 - **Matriz de confusão**:
-  ![YOLOv10 Confusion Matrix](./results/confusion_matrix_yolo10.png)
-
+<img width="3000" height="2250" alt="Image" src="https://github.com/user-attachments/assets/48428b15-92f2-483c-9c68-917ea6e0e0e1" />
+- **Todos os Resultados**:
+<img width="2400" height="1200" alt="Image" src="https://github.com/user-attachments/assets/b9a95d64-8be0-4d6a-ac60-492b495bd1c3" />
 ---
 
 ### Faster R-CNN (ResNet-50)
@@ -183,10 +186,10 @@ model = fasterrcnn_resnet50_fpn(pretrained=True)
 - **Recall**: 0.01  
 - **F1-Score**: 0.01  
 - **Matriz de confusão**:
-  ![Faster R-CNN Confusion Matrix](./results/confusion_matrix_rcnn.png)
+<img width="528" height="470" alt="Image" src="https://github.com/user-attachments/assets/bf4f7381-205f-4ad2-b7bc-34bad0283717" />
 
 - **Gráfico de métricas**:
-  ![Faster R-CNN Scores](./results/score_rcnn.png)
+<img width="590" height="390" alt="Image" src="https://github.com/user-attachments/assets/430a86be-5f62-493d-b4ee-1d3898645828" />
 
 ---
 
